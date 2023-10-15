@@ -2,11 +2,9 @@
 
 ## Introduction
 
-This Python script utilizes the OpenCV library and Pose Detection to count push-ups and estimate calories burned during a push-up workout. The code processes a video input (e.g., from a webcam or a pre-recorded video), detects the person's body pose, calculates push-up angles, and tracks push-up counts and calorie expenditure. It also provides visual feedback to guide the user on when to move up or down during a push-up.
+This PussUp_with_calorie_count script utilizes the OpenCV library and Pose Detection to count push-ups and estimate calories burned during a push-up workout. The code processes a video input (e.g., from a webcam or a pre-recorded video), detects the person's body pose, calculates push-up angles, and tracks push-up counts and calorie expenditure. It also provides visual feedback to guide the user on when to move up or down during a push-up.
 
 ## Requirements
-
-- Python: Make sure you have Python installed on your system. You can download it from the official Python website.
 
 - Python Libraries: Install the required Python libraries using pip:
 
